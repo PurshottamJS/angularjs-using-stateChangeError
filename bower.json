@@ -1,0 +1,23 @@
+{
+    "name": "angularjs-using-$stateChangeError",
+    "main": "index.js",
+    "description": "This project demonstrate how to use $stateChangeError in angularjs.",
+    "author": {
+        "name": "Purshottam Sharma",
+        "email": "purshottam.indore@gmail.com",
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/impurshottam/angularjs-using-stateChangeError.git"
+    },
+    "homepage": "https://github.com/impurshottam/angularjs-using-stateChangeError",
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "^4.17.3",
+        "angular-sanitize": "^1.6.1",
+        "angular": "angularjs#^1.6.1",
+        "bootstrap": "^3.3.7",
+        "angular-cookies": "^1.6.1",
+        "angular-ui-router": "ui-router#^0.3.2"
+    }
+}
